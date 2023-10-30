@@ -1,0 +1,6 @@
+pytorch==1.7.0
+transformers==4.18.0
+h5py==3.1.0 
+terminaltables==3.1.0  
+yacs
+ 
